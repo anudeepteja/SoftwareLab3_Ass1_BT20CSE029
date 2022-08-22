@@ -1,0 +1,1 @@
+CREATE TABLE Student_Details.list(Name VARCHAR(20) primary key,Roll_no int(5) not null, Year_of_Study int(1) not null,Department VARCHAR(10));
