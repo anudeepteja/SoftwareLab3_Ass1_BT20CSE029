@@ -1,0 +1,10 @@
+First I have created table named "list" in a database names "Student_Details"in a local host named "example_user"
+through the command in mysql "CREATE TABLE Student_Details.list(Name VARCHAR(255) NOT NULL,(20) primary key,Roll_no int(5) not null, Year_of_Study int(1) not null,Department VARCHAR(10));"
+now I have created index.html with the command "nano /var/www/teja_domain/index.html"
+now I have created insert.php with the command "nano /var/www/teja_domain/insert.php"
+now I have created edit.php with the command "nano /var/www/teja_domain/edit.php"
+now I have created delete.php with the command "nano /var/www/teja_domain/delete.php"
+now I have created display.php with the command "nano /var/www/teja_domain/display.php"
+
+Now we can open the index.html file in the browser with the url "127.0.0.1/index.html"
+and now you can do any insertion , deletion and editing database 
